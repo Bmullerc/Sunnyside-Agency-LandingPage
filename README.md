@@ -44,6 +44,7 @@ Mobile Preview
 - CSS Grid
 - Mobile-first workflow
 - [Sass](https://sass-lang.com/)
+- [BEM](http://getbem.com/naming/)
 
 ### What I learned
 
@@ -56,3 +57,4 @@ Mobile Preview
 - More media query stuff
 - Adding a class to everything makes the CSS a lot easier to understand (Especially as things get bigger)
 - Responsiveness in general, this project was an amazing way to work on it and get it to work
+- BEM naming convention
