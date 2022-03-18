@@ -23,7 +23,7 @@ Your users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site Preview](https://sunnyside-landingpage-challenge-layout.netlify.app/)
+- [Live Site Link](https://sunnyside-landingpage-challenge-layout.netlify.app/)
 
 ## My process
 
