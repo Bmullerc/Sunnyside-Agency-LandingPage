@@ -17,8 +17,10 @@ Your users should be able to:
 
 ### Screenshot
 
+- Desktop Preview
 ![Desktop](./assets/images/desktop-preview.png)
 
+- Mobile Preview
 ![Mobile](./assets/images/mobile-preview.png)
 
 ### Links
