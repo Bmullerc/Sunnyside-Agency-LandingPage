@@ -20,8 +20,8 @@ Your users should be able to:
 Desktop Preview
 ![Desktop](./assets/images/desktop-preview.png)
 
-Mobile Preview
 ![Mobile](./assets/images/mobile-preview.png)
+Mobile Preview
 
 ### Links
 
