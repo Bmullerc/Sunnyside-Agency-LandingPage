@@ -490,7 +490,7 @@ body p {
 .footer .attribution {
   position: absolute;
   text-align: center;
-  color: #25564b;
+  color: #458c7e;
   font-size: .7em;
   left: 0;
   right: 0;
@@ -499,7 +499,7 @@ body p {
 
 .footer .attribution a {
   text-decoration: none;
-  color: white;
+  color: #25564b;
 }
 
 .footer .attribution a:hover,
@@ -650,6 +650,19 @@ body p {
   }
   .gallery-content .gallery-img4 {
     content: url(images/desktop/image-gallery-sugarcubes.jpg);
+  }
+  .footer .logo-footer:hover {
+    content: url(images/logo.svg);
+    cursor: pointer;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin: 0 auto;
+    -webkit-transform: scale(1.4);
+            transform: scale(1.4);
   }
 }
 /*# sourceMappingURL=style.css.map */

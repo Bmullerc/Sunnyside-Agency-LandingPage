@@ -439,7 +439,7 @@ body {
     .attribution {
         position: absolute;
         text-align: center;
-        color: $Dark-desaturated-cyan;
+        color: $Dark-moderate-cyan;
         font-size: .7em;
         left: 0;
         right: 0;
@@ -448,7 +448,7 @@ body {
 
     .attribution a {
         text-decoration: none;
-        color: $White;
+        color: $Dark-desaturated-cyan;
     }
 
     .attribution a:hover,
@@ -598,5 +598,14 @@ body {
         .gallery-img4 {
             content: url(images/desktop/image-gallery-sugarcubes.jpg);
         }
+    }
+
+    .footer .logo-footer:hover {
+        content: url(images/logo.svg);
+        cursor: pointer;
+        height: fit-content;
+        width: fit-content;
+        margin: 0 auto;
+        transform: scale(1.4);
     }
 }
